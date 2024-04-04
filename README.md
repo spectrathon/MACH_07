@@ -1,7 +1,7 @@
 # MACH_07
-# Zenvision
+# ZenVision
 
-Zenvision is a revolutionary project aimed at empowering yoga practitioners to enhance their practice through accessible and personalized feedback. Many individuals struggle to maintain proper form during poses, which can lead to potential injuries or reduced benefits. Traditional methods of receiving feedback, such as attending classes or hiring a personal instructor, can be expensive and time-consuming. Zenvision seeks to address these challenges by providing an affordable, convenient, and innovative solution for practitioners to improve their yoga practice.
+ZenVision is a revolutionary project aimed at empowering yoga practitioners to enhance their practice through accessible and personalized feedback. Many individuals struggle to maintain proper form during poses, which can lead to potential injuries or reduced benefits. Traditional methods of receiving feedback, such as attending classes or hiring a personal instructor, can be expensive and time-consuming. Zenvision seeks to address these challenges by providing an affordable, convenient, and innovative solution for practitioners to improve their yoga practice.
 
 ## Vision
 
