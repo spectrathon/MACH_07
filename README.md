@@ -27,8 +27,8 @@ Our mission is to revolutionize the way yoga practitioners receive feedback on t
 ## Getting Started
 
 The following python libraries will be required to run this project : 
-mediapipe
-matplotlib
+mediapipe,
+matplotlib,
 opencv2
 
 Run the file Zen.py through any IDE or command prompt in order to experience a demo of the project.
