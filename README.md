@@ -15,9 +15,6 @@ Our mission is to revolutionize the way yoga practitioners receive feedback on t
 
 - Real-time Pose Analysis
 - Personalized Recommendations
-- Progress Tracking
-- Virtual Classes
-- Community Engagement
 
 ## Future Features
 
